@@ -1,0 +1,10 @@
+C:\Users\Dell-Laptop\Desktop\algoritmos\Moda\Moda\bin\Debug\netcoreapp2.1\Moda.deps.json
+C:\Users\Dell-Laptop\Desktop\algoritmos\Moda\Moda\bin\Debug\netcoreapp2.1\Moda.runtimeconfig.json
+C:\Users\Dell-Laptop\Desktop\algoritmos\Moda\Moda\bin\Debug\netcoreapp2.1\Moda.runtimeconfig.dev.json
+C:\Users\Dell-Laptop\Desktop\algoritmos\Moda\Moda\bin\Debug\netcoreapp2.1\Moda.dll
+C:\Users\Dell-Laptop\Desktop\algoritmos\Moda\Moda\bin\Debug\netcoreapp2.1\Moda.pdb
+C:\Users\Dell-Laptop\Desktop\algoritmos\Moda\Moda\obj\Debug\netcoreapp2.1\Moda.csproj.CoreCompileInputs.cache
+C:\Users\Dell-Laptop\Desktop\algoritmos\Moda\Moda\obj\Debug\netcoreapp2.1\Moda.AssemblyInfoInputs.cache
+C:\Users\Dell-Laptop\Desktop\algoritmos\Moda\Moda\obj\Debug\netcoreapp2.1\Moda.AssemblyInfo.cs
+C:\Users\Dell-Laptop\Desktop\algoritmos\Moda\Moda\obj\Debug\netcoreapp2.1\Moda.dll
+C:\Users\Dell-Laptop\Desktop\algoritmos\Moda\Moda\obj\Debug\netcoreapp2.1\Moda.pdb
